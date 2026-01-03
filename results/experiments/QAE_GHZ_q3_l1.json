@@ -1,0 +1,8 @@
+{
+    "method": "QAE_GHZ",
+    "qubits": 3,
+    "latent": 1,
+    "fidelity": 0.9996855716256198,
+    "training_time": 0.0,
+    "status": "Success"
+}

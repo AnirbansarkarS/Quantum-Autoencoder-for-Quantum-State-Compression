@@ -1,0 +1,8 @@
+{
+    "method": "QAE_Product",
+    "qubits": 3,
+    "latent": 1,
+    "fidelity": 0.9995172335411423,
+    "training_time": 0.0,
+    "status": "Success"
+}
