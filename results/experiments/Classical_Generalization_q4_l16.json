@@ -1,0 +1,8 @@
+{
+    "method": "Classical_Generalization",
+    "qubits": 4,
+    "latent": 16,
+    "fidelity": 0.3104174262401226,
+    "training_time": 0.0,
+    "status": "Success"
+}

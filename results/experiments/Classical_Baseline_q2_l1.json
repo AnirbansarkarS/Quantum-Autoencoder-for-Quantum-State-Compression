@@ -1,0 +1,8 @@
+{
+    "method": "Classical_Baseline",
+    "qubits": 2,
+    "latent": 1,
+    "fidelity": 1.0000000897278902,
+    "training_time": 0.0,
+    "status": "Success"
+}

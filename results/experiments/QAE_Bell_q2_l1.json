@@ -1,0 +1,8 @@
+{
+    "method": "QAE_Bell",
+    "qubits": 2,
+    "latent": 1,
+    "fidelity": 0.9999999994776418,
+    "training_time": 0.0,
+    "status": "Success"
+}
