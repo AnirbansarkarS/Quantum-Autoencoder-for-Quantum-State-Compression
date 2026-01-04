@@ -1,0 +1,8 @@
+{
+    "method": "Expressibility_Reps4",
+    "qubits": 4,
+    "latent": 2,
+    "fidelity": 0.8962425869734454,
+    "training_time": 0.0,
+    "status": "Success"
+}
