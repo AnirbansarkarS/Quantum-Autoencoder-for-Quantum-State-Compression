@@ -75,7 +75,6 @@ Beyond ~40 qubits, classical computers cannot even **store** the data.
 ---
 
 ## Project Structure
-
 ```
 Quantum-Autoencoder-for-Quantum-State-Compression/
 ├── theory/                          # Phase 1: Foundations ✅
